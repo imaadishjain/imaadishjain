@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aadish Jain</h1>
 <h3 align="center">A passionate Software Developer and Cloud Enthusiast😊</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaadishjain&label=Profile%20views&color=0e75b6&style=flat" alt="imaadishjain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imaadishjain" alt="imaadishjain" /></a> </p>
+
+
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🔭 I’m currently working on [InterviewIQ](https://www.youtube.com/watch?v=doX5Kh1IES8&feature=youtu.be)
 
